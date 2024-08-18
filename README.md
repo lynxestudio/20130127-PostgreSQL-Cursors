@@ -8,7 +8,7 @@ La diferencia entre un comando SELECT  no asociado a un cursor y uno asociado, e
 </p>
 <p align="justify">
 Como ejemplo tenemos una tabla Books dentro de una base de datos llamada <i>MyBooks</i>, aqui esta el script para su creación.
-<div><IMG src="images/fig1.png"></div>
+<div><IMG src="images/bookstable2.png"></div>
 Para mostrar la diferencia entre una consulta sin cursor y una consulta asociada a un cursor, ejecutamos la siguiente consulta.
 </p>
 <pre>
